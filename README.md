@@ -1,6 +1,6 @@
 # What is it?
 
-Mocha's spec reporter for nodejs, without the messy stack traces. (Uses [PrettyError](https://github.com/AriaMinaei/PrettyError))
+Mocha's spec reporter for nodejs, without the messy stack traces. (Uses [PrettyError](https://github.com/AriaMinaei/pretty-error))
 
 ## Usage
 

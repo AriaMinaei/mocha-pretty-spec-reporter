@@ -1,8 +1,8 @@
 {
-  "name": "pretty-mocha-spec",
+  "name": "mocha-pretty-spec-reporter",
   "version": "0.0.0",
   "description": "Spec reporter for mocha without the messy stack traces",
-  "main": "./lib/prettyMochaSpec.js",
+  "main": "./lib/PrettySpec.js",
   "dependencies": {
     "diff": "^1.0.7",
     "pretty-error": "~1.1.1"
@@ -11,10 +11,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AriaMinaei/pretty-mocha-spec.git"
+    "url": "https://github.com/AriaMinaei/mocha-pretty-spec-reporter.git"
   },
   "bugs": {
-    "url": "https://github.com/AriaMinaei/pretty-mocha-spec/issues"
+    "url": "https://github.com/AriaMinaei/mocha-pretty-spec-reporter/issues"
   },
   "keywords": [
     "pretty",

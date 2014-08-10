@@ -10,4 +10,10 @@ $ npm install mocha-pretty-spec-reporter
 ```
 
 Then use just like any other reporter:
+```
 $ mocha -R mocha-pretty-spec-reporter
+```
+
+## License
+
+MIT

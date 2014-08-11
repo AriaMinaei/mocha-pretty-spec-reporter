@@ -2,6 +2,8 @@
 
 Mocha's spec reporter for nodejs, without the messy stack traces. (Uses [PrettyError](https://github.com/AriaMinaei/pretty-error))
 
+![screenshot](https://github.com/AriaMinaei/mocha-pretty-spec-reporter/raw/master/docs/screenshot.png)
+
 ## Usage
 
 Install with npm:

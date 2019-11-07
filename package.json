@@ -4,7 +4,7 @@
   "description": "Spec reporter for mocha without the messy stack traces",
   "main": "./lib/PrettySpec.js",
   "dependencies": {
-    "diff": "^1.0.7",
+    "diff": "^4.0.1",
     "pretty-error": "~1.1.1"
   },
   "author": "Aria Minaei",
